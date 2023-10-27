@@ -1,0 +1,23 @@
+/* Dikey ekran için stil */
+#content.vertical {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Yatay ekran için stil */
+  #content.horizontal {
+    background-color: white;
+    color: gray;
+    text-align: center;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
